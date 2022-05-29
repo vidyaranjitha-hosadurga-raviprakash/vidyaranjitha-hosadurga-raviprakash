@@ -1,11 +1,11 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
+# Hello there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00796b&width=1100&size=40&center=true&vCenter=true&lines=I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
 </p>
 
-<p align="center">
-<img align="center" width= "400rem" height="100rem" src="assests/images/rubicks.gif">
+<p align="center" >
+<img width= "300rem" height="300rem" src="assests/images/rubicks.gif">
 </p>
 
 ## A brief intro about me...
@@ -55,7 +55,7 @@ Always building and fixing something.
 
 <br>
 
-## Social Connect with me :
+## Social presence:
 
 <br>
 
