@@ -4,11 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00796b&width=1100&size=40&center=true&vCenter=true&lines=Hello%2C+I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
 </p>
 
-<img align="center" width= "210px" src="assests/images/rubicks.gif">
+<img align="center" width= "50rem" height="50rem" src="assests/images/rubicks.gif">
 
 ## A brief intro about me...
 
-- Hello, I'm Vidyaranjitha Hosadurga Raviprakash, a Javascript enthusiast.
+Hello, I'm Vidyaranjitha Hosadurga Raviprakash, a Javascript enthusiast.
 Always building and fixing something.
 
 📌 Graduated Bachelor of Computer Science from PES University/PESIT
