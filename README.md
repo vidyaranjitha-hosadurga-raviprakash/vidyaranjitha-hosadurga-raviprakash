@@ -1,14 +1,14 @@
 # Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%230D60FF&width=800&size=40&center=true&vCenter=true&lines=Hello%2C+I+am+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=00796b&width=1100&size=40&center=true&vCenter=true&lines=Hello%2C+I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
 </p>
 
-<img align="right" width= "210px" src="assests/images/rubicks.gif">
+<img align="center" width= "210px" src="assests/images/rubicks.gif">
 
 ## A brief intro about me...
 
-Hello, I'm Vidyaranjitha Hosadurga Raviprakash, a Javascript enthusiast.
+- Hello, I'm Vidyaranjitha Hosadurga Raviprakash, a Javascript enthusiast.
 Always building and fixing something.
 
 📌 Graduated Bachelor of Computer Science from PES University/PESIT
@@ -35,12 +35,12 @@ Always building and fixing something.
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![jQuery](https://img.shields.io/badge/-jQuery--333333?style=flat&logo=jQuery&logoColor=007ACC)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
 - Frontend Skills: &nbsp;
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React&logoColor=007ACC)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=007ACC)
-  ![Material-Ui](https://img.shields.io/badge/-MaterialUi-333333?style=flat&logo=materialui&logoColor=007ACC)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 - Backend Skills: &nbsp;
