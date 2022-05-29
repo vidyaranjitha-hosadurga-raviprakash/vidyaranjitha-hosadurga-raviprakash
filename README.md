@@ -1,10 +1,10 @@
-# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00796b&width=1100&size=40&center=true&vCenter=true&lines=Hello%2C+I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=00796b&width=1100&size=40&center=true&vCenter=true&lines=I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
 </p>
 
-<img align="center" width= "50rem" height="50rem" src="assests/images/rubicks.gif">
+<img align="center" width= "200rem" height="200rem" src="assests/images/rubicks.gif">
 
 ## A brief intro about me...
 
