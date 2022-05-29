@@ -1,7 +1,7 @@
-# Hello there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
+<p style='color:#00acc1'>Hello there !!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00796b&width=1100&size=40&center=true&vCenter=true&lines=I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=00695c&width=1100&size=40&center=true&vCenter=true&lines=I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile">
 </p>
 
 <p align="center" >
@@ -15,7 +15,7 @@ Always building and fixing something.
 
 📌 Graduated Bachelor of Computer Science from PES University/PESIT
 
-📌 3+ years experienced Software Developer. 2 years experience as front-end web Developer.
+📌 3+ years experienced Software Developer. 2 years experience as front-end web developer.
 
 ## Interests :
 
