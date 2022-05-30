@@ -1,7 +1,11 @@
-<p style='color:aqua'>Hello there !!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px"/></p>
+<span align="right">
+  <img  align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px"/>
+</span>
+
+![](https://img.shields.io/static/v1?label=&message=Hello%20There!!&color=aqua)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=009688&width=1100&size=40&center=true&vCenter=true&lines=I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=009688&width=1100&size=40&center=true&vCenter=true&lines=I'm+Vidyaranjitha+Hosadurga+Raviprakash;Welcome+to+my+github+profile"/>
 </p>
 
 <p align="center" >
