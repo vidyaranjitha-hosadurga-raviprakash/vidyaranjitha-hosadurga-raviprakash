@@ -25,10 +25,11 @@ Always building and fixing something.
 
 ## Hobbies :
 
-- Sketching 🎨
-- Blogging
-- Exploring IT/CS World 💻
-- Travelling
+- Sketching 🎨.
+- Trying DIY's.
+- Blogging.
+- Teaching kids.
+- Exploring IT/CS World 💻.
   <br>
 
 ## **🛠 &nbsp;Tech Stack**
