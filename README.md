@@ -15,7 +15,7 @@ Always building and fixing something.
 
 📌 Graduated Bachelor of Computer Science from PES University/PESIT
 
-📌 3+ years experienced Software Developer. 2 years experience as front-end web developer.
+📌 3.5 years of experience as front-end web developer.
 
 ## Interests :
 
